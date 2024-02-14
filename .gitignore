@@ -1,0 +1,11 @@
+# "Files built by Visual Studio"
+*.ipdb
+*.pdb
+*.pch
+*.iobj
+*.obj
+*.meta
+*.ilk
+*_h.h
+*_p.c
+*_i.c
